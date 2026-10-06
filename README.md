@@ -16,7 +16,7 @@ A commercial schema-driven admin template built with Vue 3, Vite, and strict Typ
 - **13 dashboards** covering analytics, CRM, eCommerce, POS, finance, HR, and more
 - **9 languages with full RTL**, including runtime locale discovery and end-to-end locale add and remove
 - **CASL-based RBAC** with permission directives
-- **Token-driven theming** — colour presets, density, typography scale, and dynamic fonts
+- **Token-driven theming** — color presets, density, typography scale, and dynamic fonts
 - **Built-in accessibility** in the form engine, with ARIA and focus management
 - **Full hosted documentation** that ships with the template
 
