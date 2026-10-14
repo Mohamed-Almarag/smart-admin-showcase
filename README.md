@@ -10,13 +10,13 @@ A commercial schema-driven admin template built with Vue 3, Vite, and strict Typ
 
 ## What it does
 
-- **Schema-driven** — a single `FieldDefinition[]` drives forms, validation, tables, and filters
-- **Code-generating CLI** — nine commands that scaffold modules and forms from your own API contract instead of mock data, generating types, Zod schemas, accessible forms, and translation keys
+- **Schema-driven**: a single `FieldDefinition[]` drives forms, validation, tables, and filters
+- **Code-generating CLI**: eleven commands that scaffold modules and forms from your own API contract instead of mock data, generating types, Zod schemas, accessible forms, and translation keys, and remove them again exactly
 - **40+ CRUD modules** with data tables, filtering, search, import/export, print, pagination, and bulk actions
 - **13 dashboards** covering analytics, CRM, eCommerce, POS, finance, HR, and more
 - **9 languages with full RTL**, including runtime locale discovery and end-to-end locale add and remove
 - **CASL-based RBAC** with permission directives
-- **Token-driven theming** — color presets, density, typography scale, and dynamic fonts
+- **Token-driven theming**: color presets, density, typography scale, and dynamic fonts
 - **Built-in accessibility** in the form engine, with ARIA and focus management
 - **Full hosted documentation** that ships with the template
 
